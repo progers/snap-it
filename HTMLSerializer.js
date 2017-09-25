@@ -686,7 +686,6 @@ var HTMLSerializer = class {
           'unusedId': htmlSerializer.generateId(document),
           'frameIndex': htmlSerializer.iframeFullyQualifiedName(window)
     };
-export PATH=/Users/nednguyen/.npm-packages/bin/:$PATH
   }
 
   /**
